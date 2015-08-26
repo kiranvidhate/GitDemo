@@ -3,6 +3,6 @@
     <title>Test Page</title>
   <head>
   <body>
-    <div>This is a test Page 123</div>
+    <div>This is a test Page</div>
   </body>
 </html>
