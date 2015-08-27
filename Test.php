@@ -3,6 +3,6 @@
     <title>Test Page</title>
   <head>
   <body>
-    <div>This is a test Page Edited</div>
+    <div>This is a test Page Edited in Master</div>
   </body>
 </html>
